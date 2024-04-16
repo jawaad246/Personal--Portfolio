@@ -346,4 +346,8 @@ footer {
   float: left;
   background-color: black;
 }
+img {
+  width: 100%;
+  background-position: left;
+}
 }
